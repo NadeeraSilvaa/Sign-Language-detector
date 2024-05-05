@@ -1,2 +1,4 @@
 data/
 data.pickle
+env/
+model.p
